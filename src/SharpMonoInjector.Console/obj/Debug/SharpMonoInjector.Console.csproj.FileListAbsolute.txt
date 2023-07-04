@@ -1,0 +1,10 @@
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\build\debug\smi.exe.config
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\build\debug\smi.exe
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\build\debug\smi.pdb
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector.Console\obj\Debug\SharpMonoInjector.Console.csproj.AssemblyReference.cache
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector.Console\obj\Debug\SharpMonoInjector.Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector.Console\obj\Debug\smi.exe.config
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector.Console\obj\Debug\SharpMonoInjector.Console.csproj.CoreCompileInputs.cache
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector.Console\obj\Debug\SharpMonoInjector.Console.csproj.CopyComplete
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector.Console\obj\Debug\smi.exe
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector.Console\obj\Debug\smi.pdb

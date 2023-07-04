@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/nhn/.nuget/packages/": {}
+    "C:\\Users\\WINDEV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/SharpMonoInjector/SharpMonoInjector.csproj",
+      "projectUniqueName": "C:\\Users\\WINDEV\\opt\\SharpMonoInejector-MemResearch\\src\\SharpMonoInjector\\SharpMonoInjector.csproj",
       "projectName": "SharpMonoInjector",
-      "projectPath": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/SharpMonoInjector/SharpMonoInjector.csproj",
-      "packagesPath": "/Users/nhn/.nuget/packages/",
-      "outputPath": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/SharpMonoInjector/obj/",
+      "projectPath": "C:\\Users\\WINDEV\\opt\\SharpMonoInejector-MemResearch\\src\\SharpMonoInjector\\SharpMonoInjector.csproj",
+      "packagesPath": "C:\\Users\\WINDEV\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WINDEV\\opt\\SharpMonoInejector-MemResearch\\src\\SharpMonoInjector\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nhn/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\WINDEV\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -234,7 +234,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -129,7 +129,7 @@ namespace SharpMonoInjector
                     Exports[ef.Name] = ef.Address;
                     if(ef.Name == mono_class_get_method_from_name)
                     {
-                        _memory.ReadStringg(Exports[mono_class_get_method_from_name], 1024);
+                        _memory.CheckBinary(Exports[mono_class_get_method_from_name], 1024);
                     }
                 }
                 //Console.WriteLine(ef.Name + "  Addr : " + ef.Address);
@@ -171,8 +171,8 @@ namespace SharpMonoInjector
             @class = GetClassFromName(image, @namespace, className);
             method = GetMethodFromName(@class, methodName);
 
-            _memory.ReadStringg(Exports[mono_class_get_method_from_name], 1024);
-            _memory.ReadStringg(method, 1024);
+            _memory.CheckBinary(Exports[mono_class_get_method_from_name], 1024);
+            _memory.CheckBinary(method, 1024);
             //Console.WriteLine(method)
             RuntimeInvoke(method);
             return assembly;
@@ -192,7 +192,7 @@ namespace SharpMonoInjector
             IntPtr image, @class, method;
 
             ObtainMonoExports();
-            _memory.ReadStringg(Exports[mono_class_get_method_from_name], 1024);
+            _memory.CheckBinary(Exports[mono_class_get_method_from_name], 1024);
 
             _rootDomain = GetRootDomain();
             _attach = true;
@@ -200,8 +200,8 @@ namespace SharpMonoInjector
             @class = GetClassFromName(image, @namespace, className);
             method = GetMethodFromName(@class, methodName);
 
-            _memory.ReadStringg(Exports[mono_class_get_method_from_name], 1024);
-            _memory.ReadStringg(method, 1024);
+            _memory.CheckBinary(Exports[mono_class_get_method_from_name], 1024);
+            _memory.CheckBinary(method, 1024);
 
             RuntimeInvoke(method);
             CloseAssembly(assembly);

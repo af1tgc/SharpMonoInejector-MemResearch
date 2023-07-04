@@ -1,0 +1,10 @@
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.csproj.AssemblyReference.cache
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.AssemblyInfoInputs.cache
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.AssemblyInfo.cs
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.csproj.CoreCompileInputs.cache
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\build\debug\netstandard2.0\SharpMonoInjector.deps.json
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\build\debug\netstandard2.0\SharpMonoInjector.dll
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\build\debug\netstandard2.0\SharpMonoInjector.pdb
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.dll
+C:\Users\WINDEV\opt\SharpMonoInejector-MemResearch\src\SharpMonoInjector\obj\Debug\netstandard2.0\SharpMonoInjector.pdb

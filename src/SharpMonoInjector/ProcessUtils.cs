@@ -22,7 +22,7 @@ namespace SharpMonoInjector
                 IntPtr functions = mod + memory.ReadInt(exportDirectory + 0x1C);
                 int count = memory.ReadInt(exportDirectory + 0x18);
 
-                Console.WriteLine("\n GetExportedFunctions!!")
+                Console.WriteLine("\n GetExportedFunctions!!");
                 for (int i = 0; i < count; i++) {
                     int offset = memory.ReadInt(names + i * 4);
                     string name = memory.ReadString(mod + offset, 32, Encoding.ASCII);

@@ -33,6 +33,19 @@ namespace SharpMonoInjector
             return encoding.GetString(bytes.ToArray());
         }
 
+        public void CheckBinary(IntPtr address, int length)
+        {
+            List<byte> bytes = new List<byte>();
+
+            for (int i = 0; i < length; i++) {
+                byte read = ReadBytes(address + bytes.Count, 1)[0];
+                Console.WriteLine(ReadBytes(address + bytes.Count, 1)[0]);
+                //Console.WriteLine(read);
+
+                bytes.Add(read);
+            }
+        }
+
         public string ReadUnicodeString(IntPtr address, int length)
         {
             return Encoding.Unicode.GetString(ReadBytes(address, length));
