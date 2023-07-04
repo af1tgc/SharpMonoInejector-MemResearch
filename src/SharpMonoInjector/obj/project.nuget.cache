@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WDiqBfb1uAjaRTSAPffw1iWOeO1YuOXGxhkrczF7Ua0ff6+vv8szXvY9+KNGpH60F3V++HXRcTgPqoe2FW7WHg==",
+  "success": true,
+  "projectFilePath": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/SharpMonoInjector/SharpMonoInjector.csproj",
+  "expectedPackageFiles": [
+    "/Users/nhn/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/nhn/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

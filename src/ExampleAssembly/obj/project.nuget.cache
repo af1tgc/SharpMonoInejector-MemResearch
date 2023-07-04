@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7jNL85SvgviHjXt7T1DzXObkcy8j76WI9CkIcn1svbVkAc4Vtbt8IQk5RsV56Y8zn3zjMeQy5tFxoTD+vvI6g==",
+  "success": true,
+  "projectFilePath": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/ExampleAssembly.csproj",
+  "expectedPackageFiles": [
+    "/Users/nhn/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/nhn/.nuget/packages/microsoft.netframework.referenceassemblies.net40/1.0.2/microsoft.netframework.referenceassemblies.net40.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

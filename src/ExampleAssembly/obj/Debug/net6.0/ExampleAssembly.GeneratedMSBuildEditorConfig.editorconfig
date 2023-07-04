@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ExampleAssembly
+build_property.ProjectDir = /Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/

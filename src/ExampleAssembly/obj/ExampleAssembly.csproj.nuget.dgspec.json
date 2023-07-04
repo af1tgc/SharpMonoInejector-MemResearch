@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/ExampleAssembly.csproj": {}
+  },
+  "projects": {
+    "/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/ExampleAssembly.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/ExampleAssembly.csproj",
+        "projectName": "ExampleAssembly",
+        "projectPath": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/ExampleAssembly.csproj",
+        "packagesPath": "/Users/nhn/.nuget/packages/",
+        "outputPath": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nhn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

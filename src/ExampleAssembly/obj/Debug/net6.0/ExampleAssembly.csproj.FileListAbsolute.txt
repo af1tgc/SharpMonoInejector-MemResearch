@@ -1,0 +1,7 @@
+/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/obj/Debug/net6.0/ExampleAssembly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/obj/Debug/net6.0/ExampleAssembly.csproj.CoreCompileInputs.cache
+/Users/nhn/opt/600_Game/SharpMonoInjector/build/debug/ExampleAssembly.dll
+/Users/nhn/opt/600_Game/SharpMonoInjector/build/debug/ExampleAssembly.pdb
+/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/obj/Debug/net6.0/ExampleAssembly.csproj.AssemblyReference.cache
+/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/obj/Debug/net6.0/ExampleAssembly.dll
+/Users/nhn/opt/600_Game/SharpMonoInjector/src/ExampleAssembly/obj/Debug/net6.0/ExampleAssembly.pdb

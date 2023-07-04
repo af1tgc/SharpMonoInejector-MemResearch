@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "3s2T/KHtayKiY+18PI50LpOoNUDRR/eOpdkKoh4HF/viPSRNHc7S4/iG+JTnN1WXNcS11i3gSBBHYIspWIpaNA==",
+  "success": false,
+  "projectFilePath": "/Users/nhn/opt/600_Game/SharpMonoInjector/src/SharpMonoInjector.Console/SharpMonoInjector.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/nhn/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/nhn/.nuget/packages/microsoft.netframework.referenceassemblies.net40/1.0.2/microsoft.netframework.referenceassemblies.net40.1.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "SharpMonoInjector 프로젝트가 net40(.NETFramework,Version=v4.0)과(와) 호환되지 않습니다. SharpMonoInjector 프로젝트는 다음을 지원합니다. netstandard2.0(.NETStandard,Version=v2.0)",
+      "libraryId": "SharpMonoInjector",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.0"
+      ]
+    }
+  ]
+}
